@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jvonfoerster@gmail.com
+	name = Johannes von Foerster
